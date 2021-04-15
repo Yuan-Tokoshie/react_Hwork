@@ -6,7 +6,7 @@ import ReactDOM from 'react-dom';
 
 
 ReactDOM.render(
-    <Clock date={new Date()} />,
+    <Clock />,
     document.getElementById('root')
   );
 
